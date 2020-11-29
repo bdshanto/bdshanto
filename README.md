@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on angular
 - 🤔 I’m looking for help with Azure
 - 💬 Ask me about ...Anything
-- 📫 How to reach me: ... [skype]
+- 📫 How to reach me: ... [hsibbd]
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I am half finish.
 
