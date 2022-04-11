@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/haasib25" target="blank"><img src="https://img.shields.io/twitter/follow/haasib25?logo=twitter&style=for-the-badge" alt="haasib25" /></a> </p>
 
-- 🔭 I’m currently working on **AITS Idea Ltd.**
+- 🔭 I’m currently working on **NybSys pvt Ltd.**
 
 - 💬 Ask me about **Angular, .Net Core**
 
