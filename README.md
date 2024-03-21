@@ -1,2 +1,2 @@
 
-- 🔭 I’m currently working on **NybSys (Pvt.) Ltd.**
+- 🔭 I’m currently working on **Miracle Advance Technologies Co. Ltd.**
